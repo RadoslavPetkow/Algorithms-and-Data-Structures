@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- **GitHub:** [RadoslavPetkow](https://github.com/yourusername)
+- **GitHub:** [RadoslavPetkow](https://github.com/RadoslavPetkow)
 - **Email:** radigoig@gmail.com
 
 ---
