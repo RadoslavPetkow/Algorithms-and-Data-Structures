@@ -72,8 +72,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** your.email@example.com
+- **GitHub:** [RadoslavPetkow](https://github.com/yourusername)
+- **Email:** radigoig@gmail.com
 
 ---
 
